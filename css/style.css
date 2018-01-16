@@ -1,0 +1,311 @@
+.button-0 {
+  background-color: #fff;
+  border: 1px solid #000;
+  border-radius: 14px 14px
+}
+.text-1 {
+  font-family: BalsamiqSans,sans-serif;
+  font-size: 15px
+}
+.textfield-2 {
+  background-color: #fff;
+  border: 1px solid #000
+}
+.style-3 {
+  text-align: center;
+  font-family: "Balsamiq Sans",sans-serif;
+  font-size: 13px
+}
+.textfield-4 {
+  background-color: #fff;
+  border: 1px solid #000
+}
+.style-5 {
+  text-align: center;
+  font-family: "Balsamiq Sans",sans-serif;
+  font-size: 13px
+}
+.textfield-6 {
+  background-color: #fff;
+  border: 1px solid #000
+}
+.style-7 {
+  text-align: center;
+  font-family: "Balsamiq Sans",sans-serif;
+  font-size: 13px
+}
+.button-8 {
+  background-color: #fff;
+  border: 1px solid #000;
+  border-radius: 14px 14px
+}
+.text-9 {
+  font-family: BalsamiqSans,sans-serif;
+  font-size: 15px
+}
+.button-10 {
+  background-color: #fff;
+  border: 1px solid #000;
+  border-radius: 14px 14px
+}
+.text-11 {
+  font-family: BalsamiqSans,sans-serif;
+  font-size: 15px
+}
+.textfield-12 {
+  background-color: #fff;
+  border: 1px solid #000
+}
+.style-13 {
+  text-align: center;
+  font-family: "Balsamiq Sans",sans-serif;
+  font-size: 13px
+}
+.textfield-14 {
+  background-color: #fff;
+  border: 1px solid #000
+}
+.style-15 {
+  text-align: center;
+  font-family: "Balsamiq Sans",sans-serif;
+  font-size: 13px
+}
+.textfield-16 {
+  background-color: #fff;
+  border: 1px solid #000
+}
+.style-17 {
+  text-align: center;
+  font-family: "Balsamiq Sans",sans-serif;
+  font-size: 13px
+}
+.text-18,
+.text-19,
+.text-21,
+.text-23,
+.text-24,
+.text-25,
+.text-26 {
+  font-family: BalsamiqSans,sans-serif;
+  font-size: 21px
+}
+.text-23,
+.text-24,
+.text-25,
+.text-26 {
+  font-size: 16px
+}
+.button-0,
+.textfield-2,
+.textfield-4,
+.textfield-6 {
+  margin: 65px 0 0 21.93%;
+  width: 53.785%;
+  height: 5.727%;
+  z-index: 3;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.button-0,
+.textfield-4,
+.textfield-6 {
+  margin: 16px 0 0 21.93%;
+  z-index: 4
+}
+.button-0,
+.textfield-6 {
+  z-index: 5
+}
+.button-0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 19px 0 0 26.63%;
+  width: 43.864%;
+  height: 6.443%;
+  z-index: 0;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial
+}
+.text-1 {
+  position: initial;
+  margin: 6px 0 0;
+  width: 100%;
+  z-index: 1;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.button-8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 151px 0 0 26.63%;
+  width: 43.864%;
+  height: 6.443%;
+  z-index: 6;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial
+}
+.text-9 {
+  position: initial;
+  margin: 6px 0 0;
+  width: 100%;
+  z-index: 7;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.text-18 {
+  margin: 23px 0 0 21.93%;
+  width: 55.613%;
+  z-index: 6;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.button-10,
+.textfield-12,
+.textfield-14,
+.textfield-16 {
+  margin: 38px 0 0 21.93%;
+  width: 53.785%;
+  height: 5.727%;
+  z-index: 3;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.button-10,
+.textfield-14,
+.textfield-16 {
+  margin: 16px 0 0 21.93%;
+  z-index: 4
+}
+.button-10,
+.textfield-16 {
+  z-index: 5
+}
+.button-10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 19px 0 0 26.63%;
+  width: 43.864%;
+  height: 6.443%;
+  z-index: 0;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: initial;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial
+}
+.text-11 {
+  position: initial;
+  margin: 6px 0 0;
+  width: 100%;
+  z-index: 1;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.image-20,
+.text-19 {
+  margin: 23px 0 0 21.93%;
+  width: 55.613%;
+  z-index: 0;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.image-20 {
+  margin: 44px 0 0 12.79%;
+  width: 74.412%;
+  height: 62.052%;
+  z-index: 1
+}
+.text-21 {
+  margin: 23px 0 0 21.93%;
+  width: 55.613%;
+  z-index: 0;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.image-22,
+.text-23 {
+  margin: 42px 0 0 22.91%;
+  width: 28.977%;
+  z-index: 2;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.image-22 {
+  margin: 11px 0 0 21.02%;
+  width: 57.954%;
+  height: 52.881%;
+  z-index: 0
+}
+.timetrack-unsupported-0 {
+  margin: 70px 0 0 70.07%;
+  width: 6.06%;
+  height: 5.423%;
+  z-index: 1;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.text-24,
+.text-25,
+.text-26 {
+  margin: 35px 0 0 23.1%;
+  width: 24.621%;
+  z-index: 0;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0
+}
+.text-25,
+.text-26 {
+  margin: 37px 0 0 26.13%;
+  width: 22.727%
+}
+.text-26 {
+  margin: 32px 0 0 24.05%;
+  width: 16.477%
+}
